@@ -1,0 +1,13 @@
+Oamenii de stiinta au studiat pe parcursul anilor miscarile/comportamentul si creierele animalelor. Studiul acestor cercetari a fost integrat in conceperea si realizarea lui MiRo.
+MiRo este un robot programabil. De fapt, este un robot biomimetic. Acest tip de robot imita gesturile unui animal gasit, vazut in natura.
+Date tehnice:
+a) conceput: Consequential Robotics si Universitatea din Shelfield
+b) greutate: 5kg (11 lb)
+c) urechile lungi au rolul de-a detecta undele sonore cu ajutorul unor microfoane stereo
+d) interiorul corpului este plin de o multitudine de senzori si LED-uri
+e) diversi senzori sunt localizati in cap
+f) in interiorul ochiilor este montat un senzor cu viziune 3D. Acesti senzori ii permit lui MiRo sa raspunda la orice zgomot. Ochii se pot deschide, inchide sau clipi in functie de gradul de activitate din preajma.
+g) cel putin doi roboti MiRo pot comunica intre ei cu ajutorul unor mini-camere ce contin senzori de miscare montate in corp care au rolul de-a detecta miscarile celuilalt robot
+h) se pot detecta emotii transmise cu ajutorul "limbajului corpului" lui MiRo
+i) senzorii de tipul light pot face diferenta dintre lumina si intuneric. De asemenea, pot recunoaste cand este zi sau noapte.
+j) are incorporate doua LED-uri: rosu si verde. Cel ROSU exprima stresul, cel VERDE exprima bucuria si calmul.
